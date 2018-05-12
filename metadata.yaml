@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24951#The-War-in-South-AfricaIts-Cause-and-Conduct
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2008-03-29'
 gutenberg_type: Text
