@@ -1,0 +1,33 @@
+_repo: The-War-in-South-AfricaIts-Cause-and-Conduct_24951
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2008-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Causes'
+- !lcsh 'South African War, 1899-1902'
+- !lcc 'DT'
+title: The War in South Africa, Its Cause and Conduct
+url: http://www.gutenberg.org/ebooks/24951
